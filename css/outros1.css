@@ -1,0 +1,130 @@
+@charset "UTF-8";
+
+*{
+  margin:0%;
+  padding:0%;
+  box-sizing: border-box;
+}
+body{
+  background: linear-gradient(236.85deg, rgba(51, 230, 224, 0.857) 27.26%, rgb(12, 238, 129) 96.03%);
+  font-family: Arial, Helvetica, sans-serif;
+
+  }
+  .corazul{
+  background-color: rgb(33, 33, 237);
+  padding-top: 7px;
+  border-width: 3px;
+  border-style: solid;
+  color: aliceblue;
+  padding-bottom: 10px;
+  text-align: center;
+  }
+
+  .mudacor:hover{
+    background-color: rgb(0, 255, 234);
+    transition-duration: 0.98s;
+    border-radius: 8px;
+  }
+
+  #ax{
+    text-decoration: none;
+    text-decoration: none;
+    color: rgb(194, 190, 190);
+    font-size: 7.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: 1px 1px 3px 1px #1701018f;
+    border-radius: 7px;
+  }
+
+  h1{
+    font-size: 17px;
+    margin: 20px;
+    padding: 2px;
+    text-align: center;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  a{
+    text-decoration: none;
+    color: blue;
+  }
+  p{
+  text-align: center;
+  }
+
+h3{
+font-size: 20px;
+background-color: rgb(128, 120, 120);
+box-shadow: 1px 1px 6px 4px rgb(0, 0, 0);
+padding: 20px;
+margin:20px;
+border-radius: 10px;
+text-align: center;
+}
+
+p{
+
+padding: 15px;
+font-size: 14px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+  }
+  .aviso{
+    font-size: 18px;
+    margin: 18px;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 19px;
+    padding: 20px;
+    box-shadow: 1px 1px 6px 4px rgb(0, 0, 0);
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+    div.videos1{
+      background-color: rgb(255, 145, 0);
+      margin-top: 45px;
+      margin-bottom: 20px;
+      padding: 20px;
+      padding-bottom: 55%;
+      position: relative;
+    }
+
+    div.videos1 iframe{
+      position: absolute;
+      top:2% ;
+      left:1.5%;
+      width: 97.6%;
+      height: 96%;
+
+    }
+    .casino{
+      border-radius: 4px;
+      margin: 10px;
+      width: 320px;
+      margin-left: 23px;
+    }
+    div.visitesite{
+      background-color: rgb(255, 145, 0);
+      margin-top: 45px;
+      margin-bottom: 20px;
+      padding: 20px;
+      padding-bottom: 55%;
+      position: relative;
+    }
+    
+    div.visitesite iframe{
+      position: absolute;
+      top:2% ;
+      left:1%;
+      width: 97.6%;
+      height: 96%;
+    
+    }
+    
+.vznplay{
+  margin-top: 40px;
+font-size:10px;
+text-align:center;
+}
